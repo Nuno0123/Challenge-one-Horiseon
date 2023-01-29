@@ -16,6 +16,11 @@ For this week's challenge, I'm hired by a Marketing agency to help refactor an e
 * WHEN I view the heading attributes
 * THEN they fall in sequential order
 * WHEN I view the title element
-* gTHEN I find a concise, descriptive title
+* THEN I find a concise, descriptive title
 
 ## Work Completed 
+
+* Changed the website title
+* Fixed the broke link within the website 
+* Used semantic element tags to make the document look neater and easier to read
+* 

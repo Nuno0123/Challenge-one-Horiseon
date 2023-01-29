@@ -20,7 +20,9 @@ For this week's challenge, I'm hired by a Marketing agency to help refactor an e
 
 ## Work Completed 
 
-* Changed the website title
-* Fixed the broke link within the website 
-* Used semantic element tags to make the document look neater and easier to read
-* 
+* Changed the website title.
+* Fixed the broke link within the website. 
+* Used semantic element tags to make the document look neater and easier to read.
+* Added alt attributes to each image on the document to help make the website more accessible for the user.
+* Changed CSS to sync corretly with new semantic element tags 
+* Input comments to where I made changes and explained why I made those changes to the best of my abilities.
